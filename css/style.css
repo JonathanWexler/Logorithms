@@ -12,6 +12,7 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+
 	*
 	{
 		-moz-box-sizing: border-box;
@@ -1041,14 +1042,14 @@
 	
 	.wrapper-style1
 	{
-		background: #e97770 url('images/overlay.png');
+		background: #69865B url('images/overlay.png');
 		color: #eee;
 		color: rgba(255,255,255,0.75);
 	}
 	
 		.wrapper-style1 .title
 		{
-			background: #e97770 url('images/overlay.png');
+			background: #69865B url('images/overlay.png');
 			color: #fff;
 		}
 	
@@ -1098,6 +1099,7 @@
 
 	#logo
 	{
+		/*margin-top:-40px;*/
 	}
 	
 		#logo h1
@@ -1189,3 +1191,12 @@
 				{
 					color: #fff;
 				}
+
+
+
+
+
+	.main-logo {
+		margin-top:-40px;
+		padding: 50px;
+	}
