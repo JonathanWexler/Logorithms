@@ -1,3 +1,8 @@
+This code content features Logorithms, Inc. and related projects. The site is custom designed by Jonathan Wexler, as part of Logorithms, Inc.
+
+The base framework for the site is provided by HTML5 UP in the following notice:
+
+
 Escape Velocity 2.5 by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
