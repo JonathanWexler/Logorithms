@@ -35,8 +35,7 @@ body {
     max-width: 800px;
     margin: 0 auto; }
     body .container #logo-image {
-      width: 100%;
-      image-orientation: initial; }
+      width: 100%; }
   body .wrapper {
     padding: 4em 0 7em 0;
     background: #fff;
