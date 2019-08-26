@@ -34,9 +34,9 @@ body {
   body .container {
     max-width: 800px;
     margin: 0 auto; }
-    body .container #logo {
+    body .container #logo-image {
       width: 100%;
-      image-orientation: from-image; }
+      image-orientation: initial; }
   body .wrapper {
     padding: 4em 0 7em 0;
     background: #fff;
